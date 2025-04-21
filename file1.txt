@@ -1,6 +1,5 @@
 hi i am amrutha
 how are you?
 i am good
-
-
-hey hiii darl
+i made changes
+through cmd
