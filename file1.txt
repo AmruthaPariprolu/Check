@@ -2,3 +2,4 @@ hi i am amrutha
 how are you?
 i am good
 i made changes
+through cmd
