@@ -5,3 +5,5 @@ i made changes
 through cmd
 
 merge conflict i gave
+
+i made some changes
