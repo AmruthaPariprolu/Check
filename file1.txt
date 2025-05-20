@@ -6,7 +6,5 @@ through cmd
 
 merge conflict i gave
 
+i made some changes
 
-
-
-ok done
